@@ -1,8 +1,8 @@
-<p align="center"><font color="#DAA520"><i><b><span style="font-size:xx-large">Финансовый проект</span></b></i></font></p>
+<p><font color="#DAA520"><i><b>Финансовый проект</b></i></font></p>
 
 <p><var>Содержание:&nbsp;</var></p>
 
-<p><a href="#">Сведения об издании</a></p>
+<p><a href="#1">Сведения об издании</a></p>
 
 <p>Информация о проекте</p>
 
@@ -14,6 +14,6 @@
 
 <p>&nbsp;</p>
 
-<p><a href="#">Сведения об издании</a></p>
+<p><a href="#" id="1" name="1">Сведения об издании</a></p>
 
 <p>&nbsp;</p>
