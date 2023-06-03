@@ -4,7 +4,7 @@
 
 <p dir="auto"><b><var>Содержание:&nbsp;</var></b></p>
 
-<p dir="auto"><a href="https://github.com/dimon0804/finance_bot_global/edit/master/README.md#1">Сведения об издании</a></p>
+<p dir="auto"><a href="#user-content-1">Сведения об издании</a></p>
 
 <p dir="auto"><a href="#3">Информация о разработчике&nbsp;</a></p>
 
