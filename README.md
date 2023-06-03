@@ -1,8 +1,8 @@
 <p dir="auto"><img alt="" src="https://vecart.ru/wp-content/uploads/2019/06/scale_1200.webp"></p>
 
-<p dir="auto"><i><b>Финансовый проект</b></i>&nbsp;</p>
+<p align="center" dir="auto"><span style="font-size:48px"><i><b>Финансовый проект</b></i>&nbsp;</span></p>
 
-<p dir="auto"><b><var>Содержание:&nbsp;</var></b></p>
+<p dir="auto"><span style="font-size:x-large"><b><var>Содержание:&nbsp;</var></b></span></p>
 
 <p dir="auto"><a href="#user-content-1">Сведения об издании</a></p>
 
@@ -20,7 +20,7 @@
 
 <p dir="auto">&nbsp;</p>
 
-<p dir="auto"><b><a id="user-content-1" name="user-content-1">Сведения об издании</a></b></p>
+<p dir="auto"><span style="font-size:x-large"><b><a id="user-content-1" name="user-content-1">Сведения об издании</a></b></span></p>
 
 <p dir="auto">Разработчик проекта:&nbsp;<a href="http://t.me/dimon0804" rel="nofollow">Дмитрий</a>&nbsp;(ссылка на telegram)&nbsp;</p>
 
@@ -36,7 +36,7 @@
 
 <p dir="auto">&nbsp;</p>
 
-<p dir="auto"><a id="4" name="4"><b>Термины&nbsp;</b></a></p>
+<p dir="auto"><span style="font-size:x-large"><a id="4" name="4"><b>Термины&nbsp;</b></a></span></p>
 
 <p dir="auto"><u>Технологический стек</u> &mdash; это набор языков программирования, фреймворков и ПО, необходимых для разработки приложения.</p>
 
@@ -44,7 +44,7 @@
 
 <p dir="auto">&nbsp;</p>
 
-<p dir="auto"><a id="3" name="3"><b>Информация о разработчике&nbsp;</b></a></p>
+<p dir="auto"><span style="font-size:x-large"><a id="3" name="3"><b>Информация о разработчике&nbsp;</b></a></span></p>
 
 <p dir="auto">Меня зовут Дмитрий, мне 15 лет. Закончил 8 класс и уже имею некий опыт в программирование.&nbsp;</p>
 
@@ -63,7 +63,7 @@
 
 <p dir="auto">&nbsp;</p>
 
-<p dir="auto"><a id="user-content-2" name="user-content-2"><b>Документация об использование</b></a></p>
+<p dir="auto"><span style="font-size:x-large"><a id="user-content-2" name="user-content-2"><b>Документация об использование</b></a></span></p>
 
 <p dir="auto"><b>Цель проекта</b>: идея данного проекта в том, чтобы облегчить жизнь людям. Чтобы люди могли спокойно контролировать свои доходы и расходы. Таким образом человек может посмотреть когда он последний раз тратил и сколько денег он тратил, а также пользователь может посмотреть какой доход у него был последний раз и какого числа. Тем самым программа будет считать баланс и говорить пользователю. Естественно данный проект поможет сохранить бюджет и уравновесить его.</p>
 
@@ -137,7 +137,7 @@
 
 <p>&nbsp;</p>
 
-<p><a id="5" name="5"><b>Версии продукта&nbsp;</b></a></p>
+<p><span style="font-size:x-large"><a id="5" name="5"><b>Версии продукта&nbsp;</b></a></span></p>
 
 <p><b>1.0 </b>- Бот&nbsp; с регистрацией в нем и добавлением дохода/расхода, вывод баланса.</p>
 
@@ -161,7 +161,7 @@
 
 <p>&nbsp;</p>
 
-<p><a id="6" name="6">Предложения идея для будущей разработки/доработки</a></p>
+<p><span style="font-size:x-large"><b><a id="6" name="6">Предложения идея для будущей разработки/доработки</a></b></span></p>
 
 <p>В дальнейщем можно будет более оптимизировать разбив на файлы (для болле удобного управления кода и быстрой оринтеровки).&nbsp;</p>
 
